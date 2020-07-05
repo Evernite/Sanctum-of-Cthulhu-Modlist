@@ -24,6 +24,6 @@ Just make sure the path that the file is pointing to is the right folder, okay?
 ### <path_to_Steam>\steamapps\common\Conan Exiles\ConanSandbox\Mods\modlist.txt
 ![Step 1 Modlist file](https://i.imgur.com/mgK3BK9.png)
 
-### 1. Open the modlist file here that matches your Steam folder location. In my case, it is F_modlist
-### 1. Copy the contents of the F_modlist file into your modlist.txt file in the Steam folder.
+### 2. Open the modlist file here that matches your Steam folder location. In my case, it is F_modlist
+### 3. Copy the contents of the F_modlist file into your modlist.txt file in the Steam folder.
 ![Step 2 Modlist file](https://i.imgur.com/6LxBnqx.png)
