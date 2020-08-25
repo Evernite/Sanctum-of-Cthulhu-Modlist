@@ -6,7 +6,6 @@
 ..\..\..\..\workshop\content\440900\1159180273\StylistPlus.pak
 ..\..\..\..\workshop\content\440900\1367404881\Savage_Steel.pak
 ..\..\..\..\workshop\content\440900\1598693222\Savage_Steel_vol_II.pak
-..\..\..\..\workshop\content\440900\1976970830\GrimProductions.pak
 ..\..\..\..\workshop\content\440900\933782986\ExilesExtreme.pak
 ..\..\..\..\workshop\content\440900\1402835318\Warrior_mutator_mod.pak
 ..\..\..\..\workshop\content\440900\1509797057\NoSkelosCollector.pak
